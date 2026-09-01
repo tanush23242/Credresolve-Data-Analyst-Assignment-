@@ -1,8 +1,6 @@
 # CredResolve Data Analyst Assignment
 
-## Collections Recovery Forensics, Performance Reconstruction & Decision Analysis
-
-**Analyst:** Tanush  
+**Submitted by:** Tanush (2023UME4178)  
 **Repository:** CredResolve Data Analyst Assignment  
 **Objective:** Independently reconstruct collections performance, test the business claim **“Recovery has improved by 11% month-on-month”**, investigate data-quality and attribution issues, and translate the findings into an executive decision framework.
 
